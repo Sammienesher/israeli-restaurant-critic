@@ -1,0 +1,8 @@
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.cache/
+node_modules/
+__pycache__/
+*.pyc
