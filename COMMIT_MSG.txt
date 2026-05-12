@@ -1,0 +1,8 @@
+➕ add Timeout Israel as source (v1.1.0)
+
+- Added timeout.co.il as the 9th data source
+- Professional critic reviews by Oded Kramer and Yuval Goldberg
+- Updated workflow: 6-8 concurrent searches now include site:timeout.co.il
+- Updated scraping notes: Timeout works with curl + browser UA
+- Updated all references from 8 to 9 sources throughout docs
+- Bumped version to 1.1.0

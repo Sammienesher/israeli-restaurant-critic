@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="SKILL.md"><img src="https://img.shields.io/badge/skill-v1.0.0-blue" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/sources-8-ff6b6b" alt="8 Sources"></a>
+  <a href="SKILL.md"><img src="https://img.shields.io/badge/skill-v1.1.0-blue" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/badge/sources-9-ff6b6b" alt="9 Sources"></a>
   <a href="#"><img src="https://img.shields.io/badge/language-Hebrew+English-success" alt="Bilingual"></a>
 </p>
 
@@ -21,7 +21,7 @@
 
 An AI skill for **Hermes Agent** that turns your assistant into an expert Israeli food critic. Ask "find me a great hummus place in Jerusalem" or "what's the best burger in Tel Aviv" and it:
 
-1. 🔍 **Scrapes 8 review sources** simultaneously — Rest, Mako, Ynet, Walla, Globes, Yuviyam
+1. 🔍 **Scrapes 9 review sources** simultaneously — Timeout, Rest, Mako, Ynet, Walla, Globes, Yuviyam
 2. 📊 **Cross-references across critics** — if 3+ sources rave about a place, you know it's legit
 3. 💰 **Detects price range, cuisine, location, and ratings**
 4. 📍 **Checks Ontopo** for real-time availability and booking links
@@ -34,7 +34,7 @@ No more "let me google that for you." This is a thinking partner that knows Isra
 ## ✨ Why You Need This
 
 ### 🇮🇱 Israeli Food Scene Is Chaotic
-New places open and close every week. This skill tracks 8 sources so you don't have to.
+New places open and close every week. This skill tracks **9 sources** so you don't have to.
 
 ### 🗣️ Hebrew-Native Search
 Israeli review sites are in Hebrew. This skill searches in Hebrew, thinks in Hebrew, and gives you results in whatever language you prefer.
@@ -96,6 +96,7 @@ The skill also integrates with **Ontopo** — if you like a suggestion, it can c
 
 | Source | Type | Authority |
 |--------|------|-----------|
+| [Timeout](https://timeout.co.il/topic/ביקורת-מסעדות/) | Professional Critics | 🎤 Oded Kramer & Yuval Goldberg — sharp, opinionated |
 | [Rest](https://www.rest.co.il/) | Directory + User Reviews | 🏛️ Biggest Israeli restaurant database |
 | [Mako](https://www.mako.co.il/food-weekend/restaurant-reviews) | Professional Critics | 🎤 High authority, professional reviews |
 | [Ynet](https://www.ynet.co.il/food/foodreviews) | Professional Critics | 🎤 Mainstream food journalism |
